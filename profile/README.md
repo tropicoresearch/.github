@@ -12,14 +12,7 @@
 
 Mexico City, Mexico
 
-<a href="https://www.instagram.com/tropicoresearch/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F"
-       alt="Instagram"
-       width="24"
-       height="24"
-       align="center">
-  @tropicoresearch
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-@tropicoresearch-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tropicoresearch/)
 
 </div>
 
