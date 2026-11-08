@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="../assets/tropico_logo.png" alt="TRÓPICO Logo" width="200">
+<img src="../assets/tropico_logo_short.png" alt="TRÓPICO Logo" width="200">
 
 # TRÓPICO
 
