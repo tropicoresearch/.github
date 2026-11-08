@@ -1,15 +1,11 @@
 
 <div align="center">
 
-<img src="../assets/tropico_logo_short.png" alt="TRÓPICO Logo" width="600">
+<img src="../assets/tropico_logo_short.png" alt="TRÓPICO Logo" width="450">
 
-# TRÓPICO
-
-### Research Group on Tropical Climatology, Hydrology, and Meteorology
-
+### TRÓPICO - Research Group on Tropical Climatology, Hydrology, and Meteorology
 **Instituto de Ciencias de la Atmósfera y Cambio Climático**  
 **Universidad Nacional Autónoma de México (UNAM)**
-
 Mexico City, Mexico
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tropicoresearch/)
